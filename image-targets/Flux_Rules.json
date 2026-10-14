@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 231,
+    "left": 0,
+    "width": 1495,
+    "height": 1993,
+    "isRotated": false,
+    "originalWidth": 1495,
+    "originalHeight": 2457
+  },
+  "imagePath": "image-targets/Flux_Rules_luminance.png",
+  "metadata": null,
+  "name": "Flux_Rules",
+  "resources": {
+    "originalImage": "Flux_Rules_original.png",
+    "croppedImage": "Flux_Rules_cropped.png",
+    "thumbnailImage": "Flux_Rules_thumbnail.png",
+    "luminanceImage": "Flux_Rules_luminance.png"
+  },
+  "created": 1791977090467,
+  "updated": 1791977090467
+}
